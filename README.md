@@ -1,17 +1,22 @@
-## Running React on Replit
+# Hey Will   
 
-[React](https://reactjs.org/) is a popular JavaScript library for building user interfaces.
+Hey Will is a web-based platform designed to guide students on their wellness journey by providing curated tools and resources to enhance personal well-being. With a focus on accessibility, health equity, and user experience, Hey Will empowers students to achieve both academic and personal success.  
 
-[Vite](https://vitejs.dev/) is a blazing fast frontend build tool that includes features like Hot Module Reloading (HMR), optimized builds, and TypeScript support out of the box.
+##  Features  
 
-Using the two in conjunction is one of the fastest ways to build a web app.
+- **Curated Wellness Resources** – Provides tools and information tailored to student well-being.  
+- **ML-Powered Guidance** – Utilizes Google Teachable Machine for Focus Zone feature.  
+- **Responsive & Accessible UI** – Built with React and Vite for a seamless and inclusive user experience.  
 
-### Getting Started
-- Hit run
-- Edit [App.jsx](#src/App.jsx) and watch it live update!
+##  Technologies Used  
 
-By default, Replit runs the `dev` script, but you can configure it by changing the `run` field in the [configuration file](#.replit). Here are the vite docs for [serving production websites](https://vitejs.dev/guide/build.html)
+- **Frontend:** React, Vite  
+- **AI/ML Integration:** Google Teachable Machine  
+- **Design Focus:** Accessibility, Health Equity, User-Centric UI  
 
-### Typescript
 
-Just rename any file from `.jsx` to `.tsx`. You can also try our [TypeScript Template](https://replit.com/@replit/React-TypeScript)
+## 🌍 Live Demo  
+
+Check out **Hey Will** in action: [heywill.replit.app](https://heywill.replit.app/)  
+
+
